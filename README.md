@@ -1,5 +1,5 @@
 # IMDB Database Analysis
-
+*A full anaylsis is available as a pdf in the docs folder*
 ### Genre Trends
 
 Adventure, Sci-Fi, and Action films consistently generated the highest average gross revenue across the dataset.
